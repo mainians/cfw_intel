@@ -1,0 +1,9 @@
+|    Size   |     DL  | sha512sum |
+|  ---  |  ---  |  ---  |
+| 20MB | [Clash.for.Windows-2021-10-09.7z.001](https://cdn.jsdelivr.net/gh/appleians/cfw_intel@main/Clash.for.Windows-2021-10-09.7z.001) | a7f55873ba690cb3e9fcd889d25cf88a16dfccbc9b5041d3adaf0da673a63f12b9c8f81cbe51036ac3ba6a1cc0055c6c34027db1d97a9479e964d9bfba9e9a6b |
+| 20MB | [Clash.for.Windows-2021-10-09.7z.002](https://cdn.jsdelivr.net/gh/appleians/cfw_intel@main/Clash.for.Windows-2021-10-09.7z.002) | caacbd7de0befe520eb0dcb7a6ab00beb82ff7f91b62ee80fd28e7acd4bd67770686ae387dead20abb5d99eac0c940ebf70e5e8a954b0a288cfde1a9fd6b8b08 |
+| 20MB | [Clash.for.Windows-2021-10-09.7z.003](https://cdn.jsdelivr.net/gh/appleians/cfw_intel@main/Clash.for.Windows-2021-10-09.7z.003) | e54c072864927bd8e1cb03af8b29c8840e405aff5055d8ac34ec57dcedb12af5763e3e53cdbb5a521e6f1d4472b60584c00fab10c55a2604fc90d05abbcb1b97 |
+| 20MB | [Clash.for.Windows-2021-10-09.7z.004](https://cdn.jsdelivr.net/gh/appleians/cfw_intel@main/Clash.for.Windows-2021-10-09.7z.004) | daeea83f286c6710c38beea52d32637ae015434f56023e0b0ff79b89f484e5c2d976a6364e569ded683da3b02819687ef62c6999cfb72653420bb0ad3148374f |
+| 20MB | [Clash.for.Windows-2021-10-09.7z.005](https://cdn.jsdelivr.net/gh/appleians/cfw_intel@main/Clash.for.Windows-2021-10-09.7z.005) | baac7aefae95ba48bcfb1cd98a1e3a7b0ef2c7230de63f3cfcaad8a1b7f32513c9a8bde5e5113df9a022775c4fd9f5b55816b90dd9c1da83770f0e23ac1e2b99 |
+| 20MB | [Clash.for.Windows-2021-10-09.7z.006](https://cdn.jsdelivr.net/gh/appleians/cfw_intel@main/Clash.for.Windows-2021-10-09.7z.006) | 27c9d521ed5bb6fa3aa0e4dbbaee163d5a36534f735b4da6836d1192e05069cb59e26bd8f47e23589f9748b74a5ade26c22f1b0260ff92f012567eccc0ca4c4b |
+| 19MB | [Clash.for.Windows-2021-10-09.7z.007](https://cdn.jsdelivr.net/gh/appleians/cfw_intel@main/Clash.for.Windows-2021-10-09.7z.007) | 73a72ac165832e19b6b2ef5479a40098dfe55d0ff495d83802ebcbd93c720f5e1da7a3d060dd3569d0ba017fea7d90d4bd1871cfe5077d5c9fa7d9bcba6d9c0b |
