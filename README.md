@@ -1,0 +1,7 @@
+|    Size   |     DL  | sha512sum |
+|  ---  |  ---  |  ---  |
+| 20MB | [Clash.for.Windows-2022-04-01.7z.001](https://cdn.jsdelivr.net/gh/appleians/cfw_intel@main/Clash.for.Windows-2022-04-01.7z.001) | 409e94714b8e1d3f8b5355cb73c56d376950d20f8a8ff2ef536f56531c139f90934d137f6239dd076282f6253d92f35a265ad9fbf797eed9991381b4349d8f4d |
+| 20MB | [Clash.for.Windows-2022-04-01.7z.002](https://cdn.jsdelivr.net/gh/appleians/cfw_intel@main/Clash.for.Windows-2022-04-01.7z.002) | 86c6161285db29246b81df31c63240ba078b7fc0b0efe4b2e7c0ee3ebcf592d0f5628f6225748db99db3979959cd0d084eac235aff9d94bbc472425120edfb3a |
+| 20MB | [Clash.for.Windows-2022-04-01.7z.003](https://cdn.jsdelivr.net/gh/appleians/cfw_intel@main/Clash.for.Windows-2022-04-01.7z.003) | 4e097ca70cfc65cec4d9fdfe6f0b373076301bef06f66a1098ed2f0c8b0d0c24f0504e63085f107bfc7928cd69dce1279992ae66c2267d29bd1d75916ea49ce4 |
+| 20MB | [Clash.for.Windows-2022-04-01.7z.004](https://cdn.jsdelivr.net/gh/appleians/cfw_intel@main/Clash.for.Windows-2022-04-01.7z.004) | 492ffa53d6c5fd840c7263971e1b542d0ab6ddcbdeeffb6f7ad60b1e766a8e30eaef2969e96fa0a1d9353f7234d7a0dad18ad356c7d8bef18a277d3cab0ba769 |
+| 16MB | [Clash.for.Windows-2022-04-01.7z.005](https://cdn.jsdelivr.net/gh/appleians/cfw_intel@main/Clash.for.Windows-2022-04-01.7z.005) | a59e7c39ba7aeebbd02ad7b4e68659e8f8ade6f46037f562c5f012ef35047b28390e831f881c260949564b7c236e2aab1f02b1c04bc9d792a96bda3bb656ff27 |
